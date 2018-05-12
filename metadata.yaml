@@ -19,6 +19,8 @@ creator:
     gutenberg_agent_id: '36902'
     url: http://www.gutenberg.org/2009/agents/36902
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34634#A-Narrative-of-the-Death-of-Captain-James-Cook
 gutenberg_bookshelf: New Zealand
 gutenberg_issued: '2010-12-13'
 gutenberg_type: Text
