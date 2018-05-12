@@ -1,0 +1,35 @@
+_repo: A-Narrative-of-the-Death-of-Captain-James-Cook_34634
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Samwell, David
+    alias: Eeddyg, Dafydd Ddu
+    birthdate: 1751
+    deathdate: 1798
+    gutenberg_agent_id: '37136'
+    url: http://www.gutenberg.org/2009/agents/37136
+  editor:
+    agent_name: Cartwright, Bruce
+    alias: Cartwright, Bruce, Jr.
+    birthdate: 1882
+    deathdate: 1939
+    gutenberg_agent_id: '36902'
+    url: http://www.gutenberg.org/2009/agents/36902
+description: ''
+gutenberg_bookshelf: New Zealand
+gutenberg_issued: '2010-12-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34634'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cook, James, 1728-1779 -- Death and burial'
+- !lcc 'G'
+title: A Narrative of the Death of Captain James Cook
+url: http://www.gutenberg.org/ebooks/34634
